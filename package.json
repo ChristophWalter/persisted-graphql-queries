@@ -1,0 +1,15 @@
+{
+  "name": "persisted-graphql-queries",
+  "version": "0.1.0",
+  "private": true,
+  "repository": "git@github.com:ChristophWalter/persisted-graphql-queries.git",
+  "author": "ChristophWalter <ChristophWalter@users.noreply.github.com>",
+  "scripts": {
+    "install": "lerna bootstrap",
+    "serve": "lerna run serve --parallel",
+    "lint": "lerna run lint"
+  },
+  "dependencies": {
+    "lerna": "^3.20.2"
+  }
+}
