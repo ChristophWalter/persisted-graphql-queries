@@ -8,7 +8,7 @@ import { ApolloLink } from "apollo-link"
 import { createPersistedQueryLink } from "apollo-link-persisted-queries"
 
 const httpLink = createHttpLink({
-  uri: "https://countries.trevorblades.com/",
+  uri: "/graphql",
 })
 const automaticPersistedQueryLink = createPersistedQueryLink({
   generateHash: ({ documentId }) => documentId,
