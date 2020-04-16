@@ -5,7 +5,7 @@ module.exports = {
         {
           test: /\.graphql$/,
           exclude: /node_modules/,
-          use: ["graphql-tag/loader"],
+          use: ["graphql-persisted-document-loader", "graphql-tag/loader"],
         },
       ],
     },

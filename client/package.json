@@ -12,7 +12,9 @@
     "apollo-client": "^2.6.8",
     "apollo-link": "^1.2.14",
     "apollo-link-http": "^1.5.17",
+    "apollo-link-persisted-queries": "^0.2.2",
     "core-js": "^3.6.4",
+    "graphql-persisted-document-loader": "^2.0.0",
     "graphql-tag": "^2.10.3",
     "vue": "^2.6.11",
     "vue-apollo": "^3.0.3"
