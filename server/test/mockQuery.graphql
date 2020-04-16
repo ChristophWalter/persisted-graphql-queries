@@ -1,0 +1,6 @@
+query getMockContinents {
+  continents {
+    name
+    code
+  }
+}
