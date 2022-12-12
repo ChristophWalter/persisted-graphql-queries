@@ -13,7 +13,7 @@
     "apollo-client": "^2.6.8",
     "apollo-link-http": "^1.5.17",
     "cross-fetch": "^3.0.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "graphql": "^15.0.0",
     "graphql-persisted-document-loader": "^2.0.0",
     "graphql-tag": "^2.10.3"
